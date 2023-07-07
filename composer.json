@@ -1,0 +1,20 @@
+{
+    "name": "friker/test",
+    "description": "php test script",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Friker\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "方工",
+            "email": "111@163.com"
+        }
+    ],
+    "require": {
+		"php": ">=8.0"
+	}
+}
